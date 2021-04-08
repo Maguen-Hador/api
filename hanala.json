@@ -3,23 +3,23 @@
         "name": "Dana Bakal",
         "status": "3ro medio girls Maimonides School"
     },
-    "rosh-escuela": {
+    "rosh_escuela": {
         "name": "Ilan Ergas",
         "status": "[undefined]"
     },
-    "rosh-guizbar": {
+    "rosh_guizbar": {
         "name": "Alan Ventura",
         "status": "4to medio boys Maimonides School"
     },
-    "rosh-jinuj": {
+    "rosh_jinuj": {
         "name": "Yosef Camhi",
         "status": "2do medio boys Maimonides School"
     },
-    "rosh-tnua": {
+    "rosh_tnua": {
         "name": "Yosi Sokolowicz",
         "status": "3er año Ing. Comercial UAI"
     },
-    "sgan-rosh": {
+    "sgan_rosh": {
         "name": "Simon Rosemblatt",
         "status": "1er año Ing. Comercial UAI"
     }
