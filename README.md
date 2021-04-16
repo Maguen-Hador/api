@@ -8,3 +8,6 @@ El orden en que están puesto los integrantes es alfabetica. Si algun dia hacen 
 ## videos.json
 Muy obvio lo que es necesario cambiar para mostrar nuevos videos\
 Lo unico importante a saber es que en `"otrosVideos"` el limite de videos que se pueden poner en es 6. Pero se pueden poner menos, incluso ninguno. El ordern de los links ahi será el orden en que serán mostrados en la página.
+El link compatible es unicamente el que aparece cuando uno presiona en "compartir" en un video de youtube.
+<img src="images/1.png">
+<img src="images/2.png">
