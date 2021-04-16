@@ -1,15 +1,16 @@
 [
     {
         "name": "1ro Básico",
-        "genero": "hombres",
+        "genero": 1,
         "madrijim": [
             "Ilan Mittelman",
-            "Yosef Camhi"
+            "Yosef Camhi",
+            "Eliezer Rappaport"
         ]
     },
     {
         "name": "1ro Básico",
-        "genero": "muejres",
+        "genero": 0,
         "madrijim": [
             "Tali Dayan",
             "Ariela Kirberg"
@@ -17,7 +18,7 @@
     },
     {
         "name": "2do Básico",
-        "genero": "hombres",
+        "genero": 1,
         "madrijim": [
             "Eitan Bajwol",
             "Jonathan Cuchacovich",
@@ -26,7 +27,7 @@
     },
     {
         "name": "3ro Básico",
-        "genero": "hombres",
+        "genero": 1,
         "madrijim": [
             "Alberto Gringras",
             "Ilan Lehmann",
@@ -35,7 +36,7 @@
     },
     {
         "name": "2do y 3ro Básico",
-        "genero": "mujeres",
+        "genero": 0,
         "madrijim": [
             "Yehudit Camhi",
             "Leah Skura"
@@ -43,16 +44,16 @@
     },
     {
         "name": "4to y 5to Básico",
-        "genero": "hombres",
+        "genero": 1,
         "madrijim": [
-            "Kakegol",
+            "Gabriel Goldzweig",
             "Alan Ventura",
-            "Oppenheimer"
+            "Mijael Oppenheimer"
         ]
     },
     {
         "name": "4to y 5to Básico",
-        "genero": "muejeres",
+        "genero": 0,
         "madrijim": [
             "Dalia Goldenstein",
             "Tali Dines",
@@ -61,7 +62,7 @@
     },
     {
         "name": "6to y 7mo Básico",
-        "genero": "hombres",
+        "genero": 1,
         "madrijim": [
             "Benjamin Sachs",
             "Isaac Cohen",
@@ -70,7 +71,7 @@
     },
     {
         "name": "6to y 7mo Básico",
-        "genero": "muejeres",
+        "genero": 0,
         "madrijim": [
             "Deborah Cohen",
             "Sara Sachs",
@@ -79,7 +80,7 @@
     },
     {
         "name": "8to Básico y 1ro Medio",
-        "genero": "hombres",
+        "genero": 1,
         "madrijim": [
             "David Gurovuch",
             "Israel Pollak",
@@ -88,7 +89,7 @@
     },
     {
         "name": "8to Básico y 1ro Medio",
-        "genero": "muejeres",
+        "genero": 0,
         "madrijim": [
             "Dana Bakal",
             "Camila Arueste"
