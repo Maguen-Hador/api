@@ -1,0 +1,97 @@
+[
+    {
+        "name": "1ro Básico",
+        "genero": "hombres",
+        "madrijim": [
+            "Ilan Mittelman",
+            "Yosef Camhi"
+        ]
+    },
+    {
+        "name": "1ro Básico",
+        "genero": "muejres",
+        "madrijim": [
+            "Tali Dayan",
+            "Ariela Kirberg"
+        ]
+    },
+    {
+        "name": "2do Básico",
+        "genero": "hombres",
+        "madrijim": [
+            "Eitan Bajwol",
+            "Jonathan Cuchacovich",
+            "Levi Sokolowicz"
+        ]
+    },
+    {
+        "name": "3ro Básico",
+        "genero": "hombres",
+        "madrijim": [
+            "Alberto Gringras",
+            "Ilan Lehmann",
+            "Yakov Froimovich"
+        ]
+    },
+    {
+        "name": "2do y 3ro Básico",
+        "genero": "mujeres",
+        "madrijim": [
+            "Yehudit Camhi",
+            "Leah Skura"
+        ]
+    },
+    {
+        "name": "4to y 5to Básico",
+        "genero": "hombres",
+        "madrijim": [
+            "Kakegol",
+            "Alan Ventura",
+            "Oppenheimer"
+        ]
+    },
+    {
+        "name": "4to y 5to Básico",
+        "genero": "muejeres",
+        "madrijim": [
+            "Dalia Goldenstein",
+            "Tali Dines",
+            "Tali Holzhacker."
+        ]
+    },
+    {
+        "name": "6to y 7mo Básico",
+        "genero": "hombres",
+        "madrijim": [
+            "Benjamin Sachs",
+            "Isaac Cohen",
+            "Ari Goldminc"
+        ]
+    },
+    {
+        "name": "6to y 7mo Básico",
+        "genero": "muejeres",
+        "madrijim": [
+            "Deborah Cohen",
+            "Sara Sachs",
+            "Nurit Friedlander"
+        ]
+    },
+    {
+        "name": "8to Básico y 1ro Medio",
+        "genero": "hombres",
+        "madrijim": [
+            "David Gurovuch",
+            "Israel Pollak",
+            "Eithan Shmaryahu"
+        ]
+    },
+    {
+        "name": "8to Básico y 1ro Medio",
+        "genero": "muejeres",
+        "madrijim": [
+            "Dana Bakal",
+            "Camila Arueste"
+        ]
+    }
+]
