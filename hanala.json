@@ -1,30 +1,23 @@
 {
     "mazkira": {
-        "name": "Dana Bakal",
-        "status": "3ro medio girls Maimonides School"
+        "name": "Dana Bakal"
     },
     "rosh-escuela": {
-        "name": "Ilan Ergas",
-        "status": "[undefined]"
+        "name": "Ilan Ergas"
     },
     "rosh-guizbar": {
-        "name": "Alan Ventura",
-        "status": "4to medio boys Maimonides School"
+        "name": "Alan Ventura"
     },
     "rosh-jinuj": {
-        "name": "Yosef Camhi",
-        "status": "2do medio boys Maimonides School"
+        "name": "Yosef Camhi"
     },
     "rosh-tnua": {
-        "name": "El admin",
-        "status": "3er año Ing. Comercial UAI"
+        "name": "El admin"
     },
     "sgan-rosh": {
-        "name": "Simon Rosemblatt",
-        "status": "1er año Ing. Comercial UAI"
+        "name": "Simón Rosemblatt"
     },
     "rosh-madrijim": {
-        "name": "Ariela Kirberg",
-        "status": "2do medio girls Maimonides School"
+        "name": "Ariela Kirberg"
     }
 }
